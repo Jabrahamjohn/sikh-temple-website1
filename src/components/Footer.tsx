@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
               <u>Email Us</u>
             </a>
           </p>
-          <p className="text-lg">Phone: +254 722 415378</p>
+          <p className="text-lg">Phone: +254 722 759441</p>
         </div>
 
         {/* Quick Links */}
